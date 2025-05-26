@@ -1,0 +1,66 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.new-para{
+  color: rgb(235, 13, 13);
+  text-align: center;
+  font-size: 14px;
+
+}
+.mac-para{
+font-weight: bold;
+text-align: center;
+font-size: 18px;
+margin-top: 8px;
+}
+.super-para{
+  font-weight: bolder;
+  text-align: center;
+  font-size: 23px;
+  margin-bottom: 9px;
+
+}
+.price-para{
+  color: rgb(96, 96, 96);
+  text-align: center;
+  font-size: 15px;
+}
+.buy-btn{
+
+background-color: rgb(92, 113, 207);
+color: white;
+border:none;
+padding-left: 12px;
+padding-right: 12px;
+padding-top: 4px;
+padding-bottom: 4px;
+border-radius: 9px;
+margin-top: 15px;
+}
+.usd-para{
+  font-size: 21px;
+  margin-bottom: 5px;
+
+}
+.usd-span{
+  color: grey;
+  font-family: Arial;
+  font-size: 14px;
+}
+.today-para{
+  color: green;
+  margin-top: 9px;
+}
+.hours-para{
+color: grey;
+font-size: 15px;
+margin-top: 9px;
+}
+.hours-span{
+  color: rgb(224, 52, 52);
+  font-size: 15px;
+
+}
