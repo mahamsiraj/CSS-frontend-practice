@@ -1,0 +1,92 @@
+
+.para-one{
+
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 18px;
+}
+.para-two{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+
+
+}
+.para-three{
+  font-family: Arial;
+  color: red;
+  font-size: 14px;
+  margin-top: 0px;
+  font-style: italic;
+
+}
+.para-four{
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 3px;
+}
+.para-five{
+  font-family: Verdana;
+  font-size: 14px;
+  color: rgb(94, 94, 94);
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 18px;
+
+}
+.para-six{
+  font-family: Verdana;
+  font-size: 14px;
+  width: 300px;
+  line-height: 18px;
+  margin-bottom: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+
+}
+.para-button{
+  border: none;
+  color: white;
+  background-color: rgb(81, 163, 81);
+  padding: 8px;
+  width: 110px;
+  border-radius: 5px;
+  margin-top: 15px;
+
+}
+.para-seven{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  text-align: center;
+  font-weight: bold;  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+.para-eight{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-top: 15px;
+}
+.para-nine{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-top: 15px;
+  color: rgb(115, 115, 238);
+}
+.para-nine:hover{
+text-decoration: underline;
+cursor: pointer;
+}
