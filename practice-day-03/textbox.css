@@ -1,0 +1,82 @@
+.search-textbox{
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: rgb(190, 188, 188);
+  border-style: solid;
+  font-size: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+}
+.search-google-textbox{
+  border: none;
+  width: 400px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  border-radius: 17px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 5px grey;
+}
+.email{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-bottom: 8px;
+
+}
+.Linkedin-textbox{
+  width: 500px;
+  border-radius: 4px;
+  height: 25px;
+  border-width: 1px;
+
+}
+.linkedin-para{
+  font-size: 15px;
+  color: rgb(58, 56, 56);
+
+}
+.agree-btn{
+  border:none;
+  color: white;
+  width: 55%;
+  background-color: #2626cc;
+  border-radius: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-right: 300px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.catjo-img{
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+.tweet-textbox{
+  width: 300px;
+  border-style: none;
+  font-size: 15px;
+  color: grey;
+  padding-left: 13px;  
+}
+.tweet-btn{
+  background-color: #2626cc;
+  border: none;
+  border-radius: 14px;
+  color: white;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  cursor: pointer;
+  margin-right: 10px;
+}
