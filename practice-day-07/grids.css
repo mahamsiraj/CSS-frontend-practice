@@ -1,0 +1,30 @@
+.grid-1{
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+.crimson{
+  background-color:crimson;
+  color: white;
+}
+.aqua{
+  background-color:aqua;
+  color: white;
+}
+.grid-2{
+  display: grid;
+  grid-template-columns: 50px 2fr 75px;
+  margin-top: 20px;
+}
+.blue{
+  background-color: cadetblue;
+}
+.grid-3{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+  margin-top: 20px;
+  row-gap: 10px;
+  column-gap: 20px;
+}
+.yellow{
+  background-color: yellow;
+}

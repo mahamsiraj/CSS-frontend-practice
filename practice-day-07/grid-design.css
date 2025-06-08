@@ -1,0 +1,54 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.first{
+  box-shadow: 1px 1px 8px grey;
+}
+.picture{
+
+}
+.cover-photo{
+  height: 250px;
+  object-fit: cover;
+  margin-left: 60px;
+}
+.contents{
+  margin-left: 8px;
+}
+.name{
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 7px;
+
+}
+  
+.pfp{
+  width: 30px;
+  border-radius: 10px;
+}
+.desp{
+  font-size: 15px;
+  color: grey;
+}
+.add-btn{
+  color: white;
+  background-color:rgb(21, 21, 221);
+  border-style: none;
+  padding: 9px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.main-grid{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  column-gap: 20px;
+}
+.grid-profile{
+  display: grid;
+  grid-template-columns: 30px 100px;
+  align-items: center;
+  column-gap: 8px;
+  
+}
