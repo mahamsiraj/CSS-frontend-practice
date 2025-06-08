@@ -1,0 +1,53 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.first{
+  height: 380px;
+  width: 250px;
+  box-shadow: 1px 1px 8px grey;
+  display: inline-block;
+  margin-left: 20px;
+}
+.picture{
+  width: 200px;
+
+}
+.cover-photo{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.contents{
+  margin-left: 8px;
+}
+.name{
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 7px;
+
+}
+.profile{
+  display: inline-block;
+  padding-top: 8px;
+}
+.pfp{
+  width: 30px;
+  border-radius: 10px;
+}
+.desp{
+  display: inline-block;
+  vertical-align: middle;
+  padding-bottom: 20px;
+  font-size: 15px;
+  color: grey;
+}
+.add-btn{
+  color: white;
+  background-color:rgb(21, 21, 221);
+  border-style: none;
+  padding: 9px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 13px;
+}
