@@ -1,0 +1,53 @@
+
+.bottom-left{
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  background-color: green;
+  color: white;
+  font-size: 17px;
+  z-index: 3;
+}
+.side-bar{
+  color: white;
+  background-color:green;
+  width: 100px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 2;
+}
+.black-box{
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.container{
+  display: flex;
+  background-color:beige;
+  position: fixed;
+  z-index: 6;
+  border-radius: 5px;
+  position:fixed;
+  width: 300px;
+  margin-top: 50px;
+}
+.model{
+  padding: 10px;
+}
+.title{
+  font-weight: 550;
+  font-size: 18px;
+}
+.content{
+  padding-top: 5px;
+}
+.close-btn{
+  margin-top: 7px;
+}

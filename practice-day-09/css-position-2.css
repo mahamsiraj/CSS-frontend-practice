@@ -1,0 +1,105 @@
+.header{
+  display: flex;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0;
+  justify-content: space-between;
+  background-color: peachpuff;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 50px;
+
+}
+.left-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.catjo-img{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+.name{
+  padding-left: 10px;
+  font-weight: 550;
+  font-size: 16px;
+
+}
+.right-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.add-friend-btn{
+  color: white;
+  background-color: rgb(9, 9, 201);
+  border-style: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+
+}
+.message-btn{
+  background-color: rgb(231, 225, 225);
+  margin-left: 5px;
+  font-weight: bold;
+  border-style: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+.sidebar{
+  position: fixed;
+  top:50;
+  background-color: black;
+  left: 0;
+  bottom: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+}
+.cat-images{
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  margin-top: 10px;
+}
+.nested-sidebar{
+  position: fixed;
+  left: 100px;
+  top: 50px;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+  justify-content: center; 
+  width: 12%; 
+}
+.header-1{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  }
+.heading,
+.add{
+
+  }
+.content{
+  padding-top: 10px;
+}
+.new-videos,
+.updates,
+.faq{
+  padding-top: 20px;
+}
